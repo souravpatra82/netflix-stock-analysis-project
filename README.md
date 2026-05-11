@@ -127,7 +127,7 @@ The Excel dashboard provides KPI analysis, stock trends,
 monthly trading volume analysis, and return percentage tracking.
 </p>
 
-<img src="Dashboard file/netflix-stock-analysis-dashboard.png" width="100%">
+<img src="./Dashboard file/netflix-stock-analysis-dashboard.png" width="100%">
 
 <ul>
   <li>Average Closing Price: ₹402.13</li>
@@ -146,7 +146,7 @@ The Power BI dashboard visualizes Netflix stock performance,
 market sentiment, trading volume, and stock trend analysis.
 </p>
 
-<img src="Power BI dashboard/netflix-stock-performance-dashboard.png" width="100%">
+<img src="./Power BI dashboard/netflix-stock-performance-dashboard.png" width="100%">
 
 <ul>
   <li>Positive vs Negative Sentiment Analysis</li>
