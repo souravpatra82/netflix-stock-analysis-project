@@ -127,7 +127,7 @@ The Excel dashboard provides KPI analysis, stock trends,
 monthly trading volume analysis, and return percentage tracking.
 </p>
 
-![Excel Dashboard] (https://github.com/souravpatra82/netflix-stock-analysis-project/blob/main/Dashboard%20file/netflix-stock-analysis-dashboard.png.png?raw=true)
+![Excel Dashboard](https://github.com/souravpatra82/netflix-stock-analysis-project/blob/main/Dashboard%20file/netflix-stock-analysis-dashboard.png.png?raw=true)
 
 <ul>
   <li>Average Closing Price: ₹402.13</li>
